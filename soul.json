@@ -1,4 +1,4 @@
 {
   "message": "Hello world.",
-  "test_mult": 1.0
+  "test_mult": "1.0"
 }
