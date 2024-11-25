@@ -1,3 +1,8 @@
 {
   "message": "Hello world."
+},
+{
+  #Testing data
+  "jump_mult": 5.0,
+  "jump_mult_string": "5.0"
 }
