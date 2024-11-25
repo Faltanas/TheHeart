@@ -1,5 +1,4 @@
 {
   "message": "Hello world.",
-  "jump_mult": 5.0,
-  "jump_mult_string": "5.0"
+  "test_mult": 1.0
 }
